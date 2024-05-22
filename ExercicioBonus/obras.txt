@@ -1,0 +1,3 @@
+b, poli, 988, escultura, entrada
+pops, asd, 765, escultura, ala principal
+olo, assa, 1699, pintura, sala a
